@@ -2,7 +2,7 @@
 backend project in order to study and apply knowledge
 
 ## Description
-Project XYZ is a RESTful API developed in Node.js with TypeScript and integrated with MongoDB. This API provides services for interaction with a frontend and is designed to provide a practical and in-depth learning experience in backend and data protection.
+This project is a RESTful API developed in Node.js with TypeScript and integrated with MongoDB. This API provides services for interaction with a frontend and is designed to provide a practical and in-depth learning experience in backend and data protection.
 
 ## Features
 - Implementation of a RESTful API with endpoints for CRUD operations.
